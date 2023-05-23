@@ -27,9 +27,9 @@ Para uma melhor experiência, [leia online atráves do Gitbook](https://mostly-a
 * Exercícios no navegador
 * Exemplos aprofundados
 
-## Brinque com o codígo
+## Brinque com o código
 
-Para fazer o treino eficiênte e não ficar entediado enquanto te conto outra historia, certifique-se de brincar com o código com os conceitos introduzidos nesse livro. Alguns podem ser difíceis de pegar no início e são melhores compreendidos sujando as mãos. Todas as funções e estruturas de dados algébricas apresentadas nesse livro estão reunidos no apêndice (material complementar). O código também está disponivel como um modulo npm:
+Para fazer o treino eficiente e não ficar entediado enquanto te conto outra história, certifique-se de brincar com o código com os conceitos introduzidos nesse livro. Alguns podem ser difíceis de pegar no início e são melhores compreendidos sujando as mãos. Todas as funções e estruturas de dados algébricas apresentadas nesse livro estão reunidas no apêndice (material complementar). O código também está disponível como um módulo npm:
 
 ```
 $ npm i @mostly-adequate/support
